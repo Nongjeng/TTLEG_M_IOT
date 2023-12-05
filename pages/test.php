@@ -4,6 +4,7 @@ $sensorValue = $_POST['sensor_value'];
 
 // Process the data (you can do whatever you want with $sensorValue)
 echo "Received sensor value: " . $sensorValue;
+
 ?>
 
 <body>

@@ -1,4 +1,4 @@
-<IfModule mod_headers.c>
+<!-- <IfModule mod_headers.c>
     ServerSignature Off
     Header unset X-Powered-By
     Header set X-XSS-Protection "1; mode=block"
@@ -10,4 +10,4 @@
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteCond %{REQUEST_URI} !^/index.php
     RewriteRule ^(.+)$ index.php [QSA,L]
-</IfModule>
+</IfModule> -->

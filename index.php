@@ -30,10 +30,10 @@ $request = $_SERVER['REQUEST_URI'];
     echo $request;
 
 switch ($request) {
+    // case "/":
+    //     include "./pages/login.php";
+    //     break;
     case "/":
-        include "./pages/login.php";
-        break;
-    case "/page/test/":
         include "./pages/test.php";
         break;
 //     case"/test":

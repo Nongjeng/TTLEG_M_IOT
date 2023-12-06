@@ -1,6 +1,7 @@
+
 <nav class="navbar navbar-expand-lg navbar-light st">
   <div class="container-fluid">
-    <img src="./public/img/logoTATC.jpg" alt="Logo" class="navbar-logo" style="width: 5%;">
+    <img src="./public/img/logoTATC.jpg" alt="Logo"  class="rounded-circle" style="width: 5%; height: 5%;">
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
@@ -20,7 +21,7 @@
 
     <!-- Footer Section -->
     <div class="navbar-text ml-auto">
-      <a class="mb-0 text-light" href="#">
+      <a class="mb-0 text-light" href="/login">
         <i class="bi bi-person"></i> Login
       </a>
     </div>

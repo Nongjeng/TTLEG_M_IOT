@@ -16,7 +16,7 @@ include "./components/navbar.php";
     <link rel="icon" href="./public/img/logoTATC.ico" class="rounded-circle" type="image/x-icon">
     <!-- Optional: Bootstrap Icons -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.15.0/dist/bootstrap-icons.css" rel="stylesheet">
-
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <!-- Optional: Bootstrap JavaScript (Popper.js and jQuery) -->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
